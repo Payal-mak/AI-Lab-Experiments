@@ -5,39 +5,39 @@ This repository contains all the lab experiments performed as part of the **Arti
 ## 📋 Experiments
 
 ### Experiment 1
-**Title:** Introduction to Machine Learning  
+**Title:** - Introduction to Machine Learning  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1bFcz34kLQkDQ1slWoa6vJ_oOnHHGEeS6?usp=sharing)
 
 ### Experiment 2
-**Title:** Linear Regression  
+**Title:** - Linear Regression  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1kJ8k4i20QNsaX3rYrISCHOlIzKjfKKRC?usp=sharing)
 
 ### Experiment 3
-**Title:** K-Nearest Neighbors (KNN)  
+**Title:** - K-Nearest Neighbors (KNN)  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/12PGQ34BRQNSeEEbc590QfhJAViIsxafB?usp=sharing)
 
 ### Experiment 4
-**Title:** Convolutional Neural Network (CNN)  
+**Title:** - Convolutional Neural Network (CNN)  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1w5zUXUfXaZZKz7tVFDYWFwfx16LsYVBs?usp=sharing)
 
 ### Experiment 5
-**Title:** LSTM
+**Title:** - LSTM
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1RheepjQvvIuyXI6ihY8PW33y-SIqXZ5j?usp=sharing)
 
 ### Experiment 6
-**Title:** Natural Language Processing (NLP)  
+**Title:** - Natural Language Processing (NLP)  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1xXMlj9wSvTQxIlVjFR9uwwIjQEuAFTA9?usp=sharing)
 
 ### Experiment 7
-**Title:** N-Gram Model  
+**Title:** - N-Gram Model  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1PHDbu1ETFeYcly3hpqNp_ek2_Gd2pJA9?usp=sharing)
 
 ### Experiment 8
-**Title:** Word Embeddings  
+**Title:** - Word Embeddings  
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1WR572Z9u9EBS266nG6GYylr7sDk4uJ-0?usp=sharing)
 
 ### Experiment 9
-**Title:** TextRank for Keyword Extraction
+**Title:** - TextRank for Keyword Extraction
 **Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1uAB-QYzDAwT4yzfk_GrtI-zRaIqt1Ho3?usp=sharing)
 
 ### Experiment 10
