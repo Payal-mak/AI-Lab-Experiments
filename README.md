@@ -22,7 +22,7 @@ This repository contains all the lab experiments performed as part of the **Arti
 
 ### Experiment 5
 **Title:** LSTM
-**Colab Link:** Not Available
+**Colab Link:** [Open in Colab](https://colab.research.google.com/drive/1RheepjQvvIuyXI6ihY8PW33y-SIqXZ5j?usp=sharing)
 
 ### Experiment 6
 **Title:** Natural Language Processing (NLP)  
